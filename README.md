@@ -1,5 +1,9 @@
 # Dhukpuk — শরীর-দর্পণ
 
+<p align="center">
+  <img src="assets/dhukpuk-banner.svg" alt="Dhukpuk — শরীর-দর্পণ project banner" width="100%" />
+</p>
+
 A Bengali-first family wellness and health-record tracking web app.
 
 **Created & Developed by Imran Hasan Badhon**
