@@ -1,1 +1,6 @@
-name = "Dhukpuk — শরীর-দর্পণ"
+{
+    "path": "hatchable.toml",
+    "text": "name = \"Dhukpuk \u2014 \u09b6\u09b0\u09c0\u09b0-\u09a6\u09b0\u09cd\u09aa\u09a3\"",
+    "hash": "075ac5d8e0fff48c148226e2298a708beb122ef883968595c45b4a10f4eda5b5",
+    "total_lines": 1
+}
